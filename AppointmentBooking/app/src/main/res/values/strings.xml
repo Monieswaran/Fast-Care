@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Fast Care</string>
+    <string name="enter_email_id">Enter Email Id</string>
+    <string name="uid">UID</string>
+</resources>
